@@ -60,6 +60,7 @@ function fibonacci(n) {
     return fib.slice(0, n);  
 }
 
+
 console.log(reverseString("how are you"));               // "olleh"
 console.log(countCharacters("business operation"));       // 11
 console.log(capitalizeWords("technical staffs"));       // "Hello World"
